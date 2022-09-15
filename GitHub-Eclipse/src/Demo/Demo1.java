@@ -41,7 +41,7 @@ public class Demo1 {
 		Thread.sleep(500);
 		
 		System.out.println(System.getProperty("java.class.path"));
-		System.out.println("This is for Testing for Git Update");
+		
 	}
 
 }
